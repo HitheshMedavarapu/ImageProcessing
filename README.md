@@ -13,6 +13,6 @@ Contour Tracking (press O) <br>
 
 ### Note:
 For face detection, you have to change the path of python libraries as the opencv libraries may have located in a different loacation in your device.
-FOr the location, run the following commands and replace the path. <br>
+For the location, run the following commands and replace the path. <br>
 import site
 print(site.getsitepackages())
